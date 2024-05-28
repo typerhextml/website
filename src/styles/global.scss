@@ -12,3 +12,59 @@ body {
 .mono {
   font-family: 'Space Mono', monospace;
 }
+
+header {
+  &:hover span {
+    background-color: #3b82f6;
+  }
+}
+
+main {
+  color: #fff;
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+  }
+
+  code {
+    display: block;
+    font-family: 'Space Mono', monospace;
+    background-color: #172554;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: 100%;
+    min-height: 0.5rem;
+    height: fit-content;
+  }
+
+  a.button {
+    display: inline-block;
+    min-width: calc(50% - 2rem);
+    width: fit-content;
+    text-align: center;
+    border: 2px solid #fff;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 0.5rem;
+    transition-duration: 150ms;
+
+    &:hover {
+      background-color: #2563eb;
+    }
+
+    &.main {
+      background-color: #2563eb;
+      color: #fff;
+
+      &:hover {
+        background-color: #fff;
+        color: #2563eb;
+      }
+    }
+  }
+}
