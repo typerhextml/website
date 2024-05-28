@@ -27,29 +27,29 @@
 
 <code lang="html">
 	<span class="text-blue-400">&lt;<span class="text-white">h1</span>&gt;</span>My new website<span
-		class="text-blue-400">&lt;<span class="text-white">/h1</span>&gt;</span
+		class="text-blue-400">&lt;<span class="text-white">&zwnj;/h1</span>&gt;</span
 	><br />
 	<span class="text-blue-400">&lt;<span class="text-white">p</span>&gt;</span><br />
 	&nbsp;&nbsp;Welcome to my
 	<span class="text-blue-400">&lt;<span class="text-white">i</span>&gt;</span>new<span
-		class="text-blue-400">&lt;<span class="text-white">/i</span>&gt;</span
+		class="text-blue-400">&lt;<span class="text-white">&zwnj;/i</span>&gt;</span
 	>
 	website!<br />
 	&nbsp;&nbsp;It's completely written in TyperHext,<br />
 	&nbsp;&nbsp;the
 	<span class="text-blue-400">&lt;<span class="text-white">b</span>&gt;</span>best<span
-		class="text-blue-400">&lt;<span class="text-white">/b</span>&gt;</span
+		class="text-blue-400">&lt;<span class="text-white">&zwnj;/b</span>&gt;</span
 	>
 	preprocessor for HTML!<br />
-	<span class="text-blue-400">&lt;<span class="text-white">/p</span>&gt;</span><br />
+	<span class="text-blue-400">&lt;<span class="text-white">&zwnj;/p</span>&gt;</span><br />
 	<span class="text-blue-400">&lt;<span class="text-white">p</span>&gt;</span><br />
 	&nbsp;&nbsp;Check it out
 	<span class="text-blue-400"
 		>&lt;<span class="text-white">a</span> <span class="text-white">href</span>=<span
 			class="text-blue-400">"https://typerhext.com/"</span
 		>&gt;</span
-	>here<span class="text-blue-400">&lt;<span class="text-white">/a</span>&gt;</span>!<br />
-	<span class="text-blue-400">&lt;<span class="text-white">/p</span>&gt;</span>
+	>here<span class="text-blue-400">&lt;<span class="text-white">&zwnj;/a</span>&gt;</span>!<br />
+	<span class="text-blue-400">&lt;<span class="text-white">&zwnj;/p</span>&gt;</span>
 </code>
 
 <p class="pt-4 text-lg">
