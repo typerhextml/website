@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import '@fontsource-variable/space-grotesk';
+@import '@fontsource/space-mono';
+
+body {
+  font-family: 'Space Grotesk Variable', sans-serif;
+}
