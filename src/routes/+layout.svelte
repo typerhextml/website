@@ -31,7 +31,7 @@
 	<slot />
 </main>
 <footer class="bg-blue-950 p-2 text-center text-white">
-	&copy; 2024-{new Date().getFullYear()}
+	&copy; 2023-{new Date().getFullYear()}
 	<a
 		href="https://leox.dev/"
 		class="underline decoration-transparent transition hover:decoration-white">Leonard Lesinski</a
